@@ -5,6 +5,7 @@
 - [Aditya Prakash](https://github.com/heyitsadityaa)
 - [Kendall Hope Tucker] (https://github.com/kendallhtucker)
 - jhgf
+- [Ayush Kumar ] (https://github.com/Ayush-A1)
 - [Yang Xiang](https://github.com/yangxdev)
 - [Sebastian Gomez V](https://github.com/segpy)
 - [Tabia Bechir](https://github.com/t-bechir)
